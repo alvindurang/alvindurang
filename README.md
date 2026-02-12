@@ -30,6 +30,7 @@ I am an accelerated learner currently completing the **Google Cybersecurity Prof
 ---
 
 ## 🔗 Connect with me:
-[<img src="https://img.shields.io" />]([https://linkedin.com](https://www.linkedin.com/in/alvin-duran-923862264/))
-[<img src="https://img.shields.io" />](adurangomez.ad@gmail.com)
+
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/alvin-duran-923862264/)
+[![Gmail](https://img.shields.io)](mailto:adurangomez.ad@gmail.com)
 
