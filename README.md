@@ -5,6 +5,15 @@
 
 # Hi there! I'm Alvin Duran 👋
 
+<h3>Course Completion Progress</h3>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" bgcolor="#4CAF50"><b>25% Complete</b></td>
+    <td width="75%" align="center" bgcolor="#e0e0e0">6 Courses Remaining</td>
+  </tr>
+</table>
+
+
 ## 🛡️ Cybersecurity Aspirant
 I am an accelerated learner currently completing the **Google Cybersecurity Professional Certificate**. I am passionate about identifying vulnerabilities, mitigating risks, and building secure digital environments.
 
