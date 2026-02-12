@@ -1,44 +1,29 @@
-## Hi there 👋
-
-<!--
-**alvindurang/alvindurang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-
 # Hi there! I'm Alvin Duran 👋
 
-<h3>Course Completion Progress</h3>
+### 🚀 Certification Progress
+<!-- This is your progress bar -->
 <table width="100%">
   <tr>
-    <td width="25%" align="center" bgcolor="#4CAF50"><b>25% Complete</b></td>
-    <td width="75%" align="center" bgcolor="#e0e0e0">6 Courses Remaining</td>
+    <td width="25%" align="center" bgcolor="#4CAF50"><b>2 / 8 Courses Complete</b></td>
+    <td width="75%" align="center" bgcolor="#e0e0e0"></td>
   </tr>
 </table>
 
+---
 
-## 🛡️ Cybersecurity Aspirant
-I am an accelerated learner currently completing the **Google Cybersecurity Professional Certificate**. I am passionate about identifying vulnerabilities, mitigating risks, and building secure digital environments.
-
-- 🚀 **Fast-Paced Learner**: Completed 25% of the Google Cybersecurity program in just 5 days.
-- 🎯 **Current Focus**: Mastering Linux command line and SQL for security auditing.
-- 📫 **How to reach me**: [email: adurangomezgomez.ad@gmail.com LinkedIn: ]
+### 🛡️ About Me
+I am an accelerated learner currently completing the **Google Cybersecurity Professional Certificate**. 
+- ⚡ **Speedrun Status:** Completed 25% of the program in just 5 days.
+- 🎯 **Current Focus:** Risk Management & Security Auditing.
 
 ---
 
-## 🛠️ Technical Skills
-- **Frameworks & Standards**: NIST Cybersecurity Framework (CSF), CIA Triad.
-- **Tools**: Linux (Bash), SQL, Wireshark (In Progress), TCPdump.
-- **Compliance**: Experience with internal security audits and risk assessment.
+### 📁 Featured Projects
+*   **[Internal Security Audit (NIST CSF)](https://docs.google.com/document/d/1X1r3DvingQ8RqeP2JMiziQE9LkjL0q88bbjHuv2Wn7E/edit?usp=sharing)**  
+    *Performed a risk assessment for Botium Toys, identifying gaps in access control and physical security.*
 
 ---
 
-## 📁 Featured Projects
-### [Internal Security Audit (NIST CSF)](https://docs.google.com/document/d/1X1r3DvingQ8RqeP2JMiziQE9LkjL0q88bbjHuv2Wn7E/edit?usp=sharing)
-Performed a comprehensive security audit for a fictional organization. Identified critical security gaps, mapped them to the NIST CSF, and provided actionable mitigation strategies to improve the company's security posture.
-
----
-
-## 📈 My Progress
-![Google Cybersecurity Certificate Progress](https://img.shields.io)
-
-
-* [Internal Security Audit (NIST CSF)](https://github.com)
+### 🛠️ Technical Stack
+`NIST CSF` | `Risk Assessment` | `Linux (Learning)` | `SQL (Learning)`
 
