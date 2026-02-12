@@ -27,3 +27,9 @@ I am an accelerated learner currently completing the **Google Cybersecurity Prof
 ### 🛠️ Technical Stack
 `NIST CSF` | `Risk Assessment` | `Linux (Learning)` | `SQL (Learning)`
 
+---
+
+## 🔗 Connect with me:
+[<img src="https://img.shields.io" />]([https://linkedin.com](https://www.linkedin.com/in/alvin-duran-923862264/))
+[<img src="https://img.shields.io" />](adurangomez.ad@gmail.com)
+
